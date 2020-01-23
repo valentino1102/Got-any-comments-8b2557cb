@@ -1,0 +1,6 @@
+input {
+    border-radius: 5px;
+}
+textarea:focus {
+    color: lightskyblue;
+} 
